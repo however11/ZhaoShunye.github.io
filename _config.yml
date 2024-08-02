@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZhaoShunye / Personal Homepage"
+title                    : "ZhaoShunye/Personal Homepage"
 title_separator          : "-"
 name                     : &name "ZhaoShunye"
-description              : &description "personal description"
+description              : &description "Graduate student currently enrolled in the School of Information, University of International Business and Economics (UIBE)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -48,7 +48,7 @@ author:
   stackoverflow    :      
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
